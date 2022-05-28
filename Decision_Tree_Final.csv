@@ -1,0 +1,221 @@
+,Rain on Today,Prediction of Rain
+0,"Rain , Thunderstorm",Rain
+1,"Rain , Thunderstorm","Rain , Thunderstorm"
+2,Rain,No Rain
+3,No Rain,No Rain
+4,Rain,No Rain
+5,No Rain,Rain
+6,Fog,No Rain
+7,No Rain,No Rain
+8,No Rain,No Rain
+9,No Rain,No Rain
+10,No Rain,"Fog , Rain"
+11,No Rain,No Rain
+12,No Rain,No Rain
+13,Thunderstorm,No Rain
+14,No Rain,No Rain
+15,No Rain,Rain
+16,"Fog , Rain",No Rain
+17,No Rain,Rain
+18,No Rain,No Rain
+19,No Rain,No Rain
+20,"Fog , Rain , Thunderstorm","Fog , Rain , Thunderstorm"
+21,No Rain,Rain
+22,No Rain,No Rain
+23,No Rain,No Rain
+24,No Rain,No Rain
+25,No Rain,"Rain , Thunderstorm"
+26,No Rain,No Rain
+27,No Rain,No Rain
+28,No Rain,"Fog , Rain , Thunderstorm"
+29,No Rain,No Rain
+30,No Rain,No Rain
+31,Rain,"Rain , Thunderstorm"
+32,No Rain,Rain
+33,Rain,Rain
+34,No Rain,No Rain
+35,No Rain,No Rain
+36,No Rain,No Rain
+37,No Rain,No Rain
+38,No Rain,No Rain
+39,No Rain,No Rain
+40,"Rain , Thunderstorm",No Rain
+41,No Rain,No Rain
+42,No Rain,"Rain , Thunderstorm"
+43,"Rain , Thunderstorm",Rain
+44,Rain,"Fog , Rain"
+45,Rain,No Rain
+46,No Rain,"Rain , Thunderstorm"
+47,No Rain,"Rain , Thunderstorm"
+48,No Rain,No Rain
+49,No Rain,No Rain
+50,"Rain , Thunderstorm","Fog , Rain , Thunderstorm"
+51,No Rain,No Rain
+52,No Rain,No Rain
+53,No Rain,Rain
+54,No Rain,No Rain
+55,No Rain,No Rain
+56,Rain,"Rain , Thunderstorm"
+57,No Rain,No Rain
+58,No Rain,No Rain
+59,No Rain,No Rain
+60,No Rain,No Rain
+61,"Rain , Thunderstorm",No Rain
+62,No Rain,Fog
+63,No Rain,No Rain
+64,No Rain,No Rain
+65,No Rain,"Rain , Thunderstorm"
+66,No Rain,No Rain
+67,No Rain,No Rain
+68,No Rain,No Rain
+69,No Rain,No Rain
+70,No Rain,Rain
+71,"Rain , Thunderstorm",Rain
+72,"Fog , Rain , Thunderstorm",Rain
+73,"Rain , Thunderstorm",No Rain
+74,No Rain,No Rain
+75,Thunderstorm,No Rain
+76,Rain,No Rain
+77,No Rain,"Fog , Rain"
+78,No Rain,No Rain
+79,Rain,"Rain , Thunderstorm"
+80,No Rain,No Rain
+81,Rain,Rain
+82,No Rain,No Rain
+83,No Rain,No Rain
+84,No Rain,Rain
+85,No Rain,No Rain
+86,No Rain,No Rain
+87,No Rain,No Rain
+88,"Rain , Thunderstorm","Rain , Thunderstorm"
+89,No Rain,No Rain
+90,No Rain,Rain
+91,Rain,No Rain
+92,"Fog , Rain , Thunderstorm",Rain
+93,No Rain,No Rain
+94,No Rain,No Rain
+95,No Rain,No Rain
+96,No Rain,No Rain
+97,Rain,"Fog , Rain"
+98,No Rain,No Rain
+99,No Rain,No Rain
+100,Rain,"Rain , Thunderstorm"
+101,No Rain,Rain
+102,"Rain , Thunderstorm",Rain
+103,No Rain,No Rain
+104,No Rain,"Rain , Thunderstorm"
+105,No Rain,"Rain , Thunderstorm"
+106,No Rain,No Rain
+107,Rain,"Fog , Rain , Thunderstorm"
+108,No Rain,No Rain
+109,No Rain,"Rain , Thunderstorm"
+110,No Rain,"Rain , Thunderstorm"
+111,Rain,No Rain
+112,No Rain,No Rain
+113,No Rain,No Rain
+114,No Rain,Rain
+115,Rain,No Rain
+116,No Rain,No Rain
+117,No Rain,No Rain
+118,No Rain,No Rain
+119,No Rain,Rain
+120,No Rain,Fog
+121,"Fog , Rain",No Rain
+122,No Rain,"Rain , Thunderstorm"
+123,Rain,Rain
+124,No Rain,No Rain
+125,Thunderstorm,No Rain
+126,Rain,"Rain , Thunderstorm"
+127,No Rain,No Rain
+128,No Rain,No Rain
+129,Rain,Rain
+130,No Rain,"Rain , Thunderstorm"
+131,"Rain , Snow",No Rain
+132,No Rain,Fog
+133,No Rain,No Rain
+134,No Rain,Rain
+135,Thunderstorm,No Rain
+136,No Rain,Rain
+137,Rain,"Rain , Thunderstorm"
+138,No Rain,No Rain
+139,No Rain,No Rain
+140,Rain,"Rain , Thunderstorm"
+141,"Fog , Rain , Thunderstorm",Rain
+142,No Rain,Rain
+143,No Rain,Rain
+144,No Rain,No Rain
+145,No Rain,No Rain
+146,No Rain,No Rain
+147,Rain,"Rain , Thunderstorm"
+148,No Rain,No Rain
+149,Rain,Rain
+150,No Rain,No Rain
+151,No Rain,No Rain
+152,No Rain,No Rain
+153,No Rain,No Rain
+154,"Rain , Thunderstorm",No Rain
+155,No Rain,No Rain
+156,Rain,No Rain
+157,No Rain,No Rain
+158,No Rain,No Rain
+159,No Rain,Rain
+160,"Rain , Thunderstorm","Fog , Rain , Thunderstorm"
+161,No Rain,No Rain
+162,Rain,"Fog , Rain , Thunderstorm"
+163,No Rain,"Rain , Thunderstorm"
+164,No Rain,No Rain
+165,No Rain,No Rain
+166,No Rain,No Rain
+167,No Rain,No Rain
+168,No Rain,No Rain
+169,No Rain,No Rain
+170,"Rain , Thunderstorm",No Rain
+171,No Rain,No Rain
+172,No Rain,"Rain , Thunderstorm"
+173,No Rain,Fog
+174,No Rain,No Rain
+175,No Rain,No Rain
+176,No Rain,No Rain
+177,No Rain,No Rain
+178,No Rain,No Rain
+179,No Rain,No Rain
+180,Rain,"Rain , Thunderstorm"
+181,Rain,"Rain , Thunderstorm"
+182,Rain,No Rain
+183,No Rain,No Rain
+184,Rain,"Fog , Rain"
+185,No Rain,No Rain
+186,No Rain,No Rain
+187,No Rain,No Rain
+188,No Rain,No Rain
+189,No Rain,No Rain
+190,No Rain,No Rain
+191,No Rain,No Rain
+192,No Rain,No Rain
+193,No Rain,"Rain , Thunderstorm"
+194,"Rain , Thunderstorm",Rain
+195,Rain,Thunderstorm
+196,No Rain,No Rain
+197,No Rain,No Rain
+198,No Rain,No Rain
+199,No Rain,No Rain
+200,No Rain,No Rain
+201,"Fog , Rain , Thunderstorm","Fog , Rain , Thunderstorm"
+202,No Rain,No Rain
+203,No Rain,"Rain , Thunderstorm"
+204,No Rain,No Rain
+205,No Rain,No Rain
+206,No Rain,No Rain
+207,No Rain,No Rain
+208,No Rain,No Rain
+209,No Rain,Rain
+210,"Rain , Thunderstorm","Fog , Rain , Thunderstorm"
+211,No Rain,No Rain
+212,No Rain,No Rain
+213,Rain,"Rain , Thunderstorm"
+214,No Rain,No Rain
+215,No Rain,No Rain
+216,Rain,No Rain
+217,No Rain,No Rain
+218,"Rain , Thunderstorm",No Rain
+219,No Rain,Rain
